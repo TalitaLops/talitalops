@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/TalitaLops">
-  <img height="180em" width="150em" src="https://github-readme-stats.vercel.app/api?username=talitalops&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" widtch="150em" src="https://github-readme-stats.vercel.app/api?username=talitalops&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" widtch="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitalops&layout=compact&langs_count=7&theme=synthwave"/>
 </div><div style="display: inline_block"><br>
   <img align="center" alt="Lops-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
