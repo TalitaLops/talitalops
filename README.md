@@ -1,4 +1,4 @@
-### Olá, Me chamo Talita Lopes 👋
+### Olá, Meu nome é Talita Lopes 👋
 
 - 🌱 Atualmente estou estudando Linguagem Java e React.
 - 😄 Pronomes: ela/dela
