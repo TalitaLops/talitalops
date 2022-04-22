@@ -1,7 +1,7 @@
 ### Olá, Meu nome é Talita Lopes 👋
 
-- 🏫 Cursando ensino superior em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando programação na linguagem C.
+- 🏫 Estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estudo programação na linguagem C.
 - 😄 Pronomes: ela/dela
 
 <div>
