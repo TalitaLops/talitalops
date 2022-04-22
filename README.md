@@ -1,6 +1,7 @@
 ### Olá, Meu nome é Talita Lopes 👋
 
-- 🌱 Atualmente estou estudando Linguagem Java e React.
+- 🏫 Cursando ensino superior em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente estou estudando programação na linguagem C.
 - 😄 Pronomes: ela/dela
 
 <div>
@@ -15,6 +16,7 @@
   <img align="center" alt="Lops-Bootstrap" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lops-Java" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lops-NodeJs" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Lops-C" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   </div>  
   
   ##
